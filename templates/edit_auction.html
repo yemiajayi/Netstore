@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block title %}Add New Item{% endblock %}
+{% block items_active %}active{% endblock %}
+
+{% block body %}
+<div class="container-fluid">
+    <div class="row">
+
+        <div class="col-xs-4">
+           <h3>Add/Edit Item</h3>
+           {% if error_message %}
+               <p><strong>{{ error_message }}</strong></p>
+           {% endif %}
+        {% if user == auction.seller %}
+           <form class="form-horizontal" action="/edit_auction/{{ auction.id }}" method="post" enctype="multipart/form-data">
+               {% csrf_token %}
+               {% include 'form-template.html' %}
+               <div class="form-group">
+                   Title: <input type="text" name="title" value="{{ auction.title }}" readonly="true"> <br>
+                    <br>
+                    Description: <textarea name="description" cols="50" rows="10">{{ auction.description }}</textarea><br>
+                    <input type="submit" value="Save" class="register_button">
+                    <input type="hidden" name="version" value="{{ auction.version }}" readonly="true">
+               </div>
+           </form>
+        {% endif %}
+        </div>
+
+    </div>
+</div>
+{% endblock %}

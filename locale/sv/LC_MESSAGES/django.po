@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-26 23:38+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Auction_Project/settings.py:119
+msgid "English"
+msgstr "Engelsk"
+
+#: Auction_Project/settings.py:120
+msgid "German"
+msgstr "Tysk"
+
+#: Auction_Project/settings.py:121
+msgid "Finnish"
+msgstr "Finsk"
+
+#: Auction_Project/settings.py:122
+msgid "Swedish"
+msgstr "Svenska"
+
+#: netstore/views.py:101
+msgid "log in to edit account"
+msgstr "logga in för att redigera konto"
+
+#: netstore/views.py:162
+msgid "log in to change password"
+msgstr "logga in för att byta lösenord"
+
+#: netstore/views.py:170
+msgid "Login to add auction"
+msgstr "Logga in för att lägga till auktion"
+
+#: netstore/views.py:195
+msgid "Oops! Something went wrong"
+msgstr "hoppsan! Något gick fel"
+
+#: netstore/views.py:206
+msgid "Log in to create auction"
+msgstr "Logga in för att skapa en auktion"
+
+#: templates/auction_detail.html:3
+msgid "Details"
+msgstr "Detaljer"
+
+#: templates/auction_detail.html:33
+msgid "Go to bid on ths auction"
+msgstr "Gå till bud på ths auktion"
+
+#: templates/auction_detail.html:35
+msgid "Login to bid on ths auction"
+msgstr "Logga in för att lägga bud på auktionen"
+
+#: templates/auction_detail.html:38
+msgid "Sorry, this auction has been banned by the admin!"
+msgstr "Tyvärr, denna auktion har blivit bannad av admin!"
+
+#: templates/base.html:34
+msgid "Auctions"
+msgstr "Auktioner"
+
+#: templates/base.html:40
+msgid "Auction"
+msgstr "Auktion"
+
+#: templates/base.html:44
+msgid "Join"
+msgstr "Ansluta sig"
+
+#: templates/base.html:55
+msgid "Search"
+msgstr "Sök"
+
+#: templates/base.html:64
+msgid "Profile"
+msgstr "Profil"
+
+#: templates/base.html:69
+msgid "Logout"
+msgstr "Logga ut"
+
+#: templates/base.html:75
+msgid "Login"
+msgstr "Logga in"
+
+#: templates/base.html:110
+msgid "Switch"
+msgstr "Växla"

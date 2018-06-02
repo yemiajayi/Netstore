@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+{% load i18n %}
+{% block title %}{% trans 'Details' %}{% endblock %}
+
+{% block body %}
+
+    <div class="container-fluid">
+    <div class="row">
+
+        <div class="col-xs-4">
+           {% if error_message %}
+               <p><strong>{{ error_message }}</strong></p>
+           {% endif %}
+           {% if message %}
+               <p><strong>{{ message }}</strong></p>
+           {% endif %}
+           {% if auction.active == True %}
+               {% if auction.banned == False %}
+                   {% if user.is_superuser %}
+                       <form action="{% url 'ban_auction' auction.id %}" method="post" style="display: inline;">
+                        {% csrf_token %}
+                        <input type="submit" value="Ban auction" class="btn btn-primary btn-xs">
+                       </form>
+                   {% endif %}
+                   <h2>{{ auction.title }}</h2>
+                   {% if user == auction.seller %}
+                       <h4> <a href="{% url 'edit_auction' auction.id %}" class="btn btn-default btn-xs">Edit</a></h4>
+                   {% endif %}
+                   <h3>{{ auction.description }}</h3>
+                   <h4> Deadline: {{ auction.deadline }}<br> Seller: {{ auction.seller }}</h4><br>
+                   <h4>Price: {{ auction.min_price }} €</h4>
+                   {% if user.is_authenticated %}
+                       {% if user != auction.seller and user.username != auction.winner %}
+                            <form class="form-horizontal" action="{% url 'bidding' auction.id %}" method="post" enctype="multipart/form-data">
+                                {% csrf_token %}
+                                {% include 'form-template.html' %}
+                                <h6><i> Enter amount you wish to add</i></h6>
+                                <input type="hidden" name="version" value="{{ auction.version }}" readonly>
+                                <input type="submit" class="btn btn-success" value="Place bid">
+                            </form>
+                       {% endif %}
+                       <!--<a href="{#% url 'bidding' auction.id %#}" class="text-uppercase">{#% trans 'Go to bid on ths auction' %#} >></a>-->
+                   {% else %}
+                       <a href="{% url 'login' %}" class="text-uppercase">{% trans 'Login to bid on ths auction' %}</a>
+                   {% endif %}
+               {% else %}
+                   <h3 class="text-danger">{% trans 'Sorry, this auction has been banned by the admin!' %}</h3>
+               {% endif %}
+           {% endif %}
+
+        </div>
+
+    </div>
+</div>
+
+{% endblock %}

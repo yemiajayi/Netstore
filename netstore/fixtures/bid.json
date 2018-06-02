@@ -1,0 +1,911 @@
+[
+{
+    "model": "netstore.bid",
+    "pk": 1,
+    "fields": {
+        "bidder": 3,
+        "bid": "143.00",
+        "auction": 2
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 2,
+    "fields": {
+        "bidder": 26,
+        "bid": "1651.00",
+        "auction": 50
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 3,
+    "fields": {
+        "bidder": 17,
+        "bid": "7749.00",
+        "auction": 107
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 4,
+    "fields": {
+        "bidder": 15,
+        "bid": "5458.00",
+        "auction": 62
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 5,
+    "fields": {
+        "bidder": 27,
+        "bid": "2599.00",
+        "auction": 46
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 6,
+    "fields": {
+        "bidder": 24,
+        "bid": "3763.00",
+        "auction": 7
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 7,
+    "fields": {
+        "bidder": 20,
+        "bid": "5092.00",
+        "auction": 73
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 8,
+    "fields": {
+        "bidder": 14,
+        "bid": "2995.00",
+        "auction": 106
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 9,
+    "fields": {
+        "bidder": 30,
+        "bid": "8104.00",
+        "auction": 46
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 10,
+    "fields": {
+        "bidder": 20,
+        "bid": "7989.00",
+        "auction": 29
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 11,
+    "fields": {
+        "bidder": 13,
+        "bid": "7018.00",
+        "auction": 17
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 12,
+    "fields": {
+        "bidder": 13,
+        "bid": "5563.00",
+        "auction": 40
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 13,
+    "fields": {
+        "bidder": 19,
+        "bid": "1120.00",
+        "auction": 2
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 14,
+    "fields": {
+        "bidder": 19,
+        "bid": "7477.00",
+        "auction": 10
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 15,
+    "fields": {
+        "bidder": 20,
+        "bid": "9347.00",
+        "auction": 40
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 16,
+    "fields": {
+        "bidder": 16,
+        "bid": "2971.00",
+        "auction": 107
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 17,
+    "fields": {
+        "bidder": 18,
+        "bid": "2135.00",
+        "auction": 43
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 18,
+    "fields": {
+        "bidder": 19,
+        "bid": "1753.00",
+        "auction": 57
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 19,
+    "fields": {
+        "bidder": 23,
+        "bid": "7633.00",
+        "auction": 105
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 20,
+    "fields": {
+        "bidder": 26,
+        "bid": "2137.00",
+        "auction": 105
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 21,
+    "fields": {
+        "bidder": 19,
+        "bid": "1917.00",
+        "auction": 13
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 22,
+    "fields": {
+        "bidder": 28,
+        "bid": "4730.00",
+        "auction": 66
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 23,
+    "fields": {
+        "bidder": 23,
+        "bid": "3224.00",
+        "auction": 34
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 24,
+    "fields": {
+        "bidder": 30,
+        "bid": "7917.00",
+        "auction": 19
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 25,
+    "fields": {
+        "bidder": 23,
+        "bid": "3208.00",
+        "auction": 66
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 26,
+    "fields": {
+        "bidder": 14,
+        "bid": "5439.00",
+        "auction": 50
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 27,
+    "fields": {
+        "bidder": 11,
+        "bid": "3366.00",
+        "auction": 55
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 28,
+    "fields": {
+        "bidder": 26,
+        "bid": "6201.00",
+        "auction": 65
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 29,
+    "fields": {
+        "bidder": 12,
+        "bid": "212.00",
+        "auction": 104
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 30,
+    "fields": {
+        "bidder": 30,
+        "bid": "7593.00",
+        "auction": 106
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 31,
+    "fields": {
+        "bidder": 22,
+        "bid": "4945.00",
+        "auction": 69
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 32,
+    "fields": {
+        "bidder": 21,
+        "bid": "7389.00",
+        "auction": 58
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 33,
+    "fields": {
+        "bidder": 20,
+        "bid": "2848.00",
+        "auction": 57
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 34,
+    "fields": {
+        "bidder": 23,
+        "bid": "659.00",
+        "auction": 2
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 35,
+    "fields": {
+        "bidder": 18,
+        "bid": "9725.00",
+        "auction": 34
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 36,
+    "fields": {
+        "bidder": 28,
+        "bid": "3870.00",
+        "auction": 100
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 37,
+    "fields": {
+        "bidder": 28,
+        "bid": "4385.00",
+        "auction": 7
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 38,
+    "fields": {
+        "bidder": 26,
+        "bid": "2827.00",
+        "auction": 62
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 39,
+    "fields": {
+        "bidder": 22,
+        "bid": "3131.00",
+        "auction": 72
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 40,
+    "fields": {
+        "bidder": 11,
+        "bid": "1971.00",
+        "auction": 78
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 41,
+    "fields": {
+        "bidder": 19,
+        "bid": "5574.00",
+        "auction": 29
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 42,
+    "fields": {
+        "bidder": 25,
+        "bid": "2251.00",
+        "auction": 102
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 43,
+    "fields": {
+        "bidder": 27,
+        "bid": "4909.00",
+        "auction": 89
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 44,
+    "fields": {
+        "bidder": 18,
+        "bid": "42.00",
+        "auction": 3
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 45,
+    "fields": {
+        "bidder": 28,
+        "bid": "1717.00",
+        "auction": 76
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 46,
+    "fields": {
+        "bidder": 13,
+        "bid": "3346.00",
+        "auction": 67
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 47,
+    "fields": {
+        "bidder": 27,
+        "bid": "94.00",
+        "auction": 72
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 48,
+    "fields": {
+        "bidder": 29,
+        "bid": "9111.00",
+        "auction": 9
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 49,
+    "fields": {
+        "bidder": 11,
+        "bid": "1800.00",
+        "auction": 19
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 50,
+    "fields": {
+        "bidder": 13,
+        "bid": "689.00",
+        "auction": 41
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 51,
+    "fields": {
+        "bidder": 29,
+        "bid": "2482.00",
+        "auction": 58
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 52,
+    "fields": {
+        "bidder": 23,
+        "bid": "3318.00",
+        "auction": 99
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 53,
+    "fields": {
+        "bidder": 30,
+        "bid": "7650.00",
+        "auction": 65
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 54,
+    "fields": {
+        "bidder": 19,
+        "bid": "2020.00",
+        "auction": 90
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 55,
+    "fields": {
+        "bidder": 14,
+        "bid": "6073.00",
+        "auction": 54
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 56,
+    "fields": {
+        "bidder": 27,
+        "bid": "550.00",
+        "auction": 56
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 57,
+    "fields": {
+        "bidder": 23,
+        "bid": "9161.00",
+        "auction": 59
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 58,
+    "fields": {
+        "bidder": 15,
+        "bid": "9821.00",
+        "auction": 48
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 59,
+    "fields": {
+        "bidder": 15,
+        "bid": "3603.00",
+        "auction": 43
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 60,
+    "fields": {
+        "bidder": 18,
+        "bid": "1315.00",
+        "auction": 83
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 61,
+    "fields": {
+        "bidder": 23,
+        "bid": "6146.00",
+        "auction": 62
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 62,
+    "fields": {
+        "bidder": 21,
+        "bid": "5066.00",
+        "auction": 34
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 63,
+    "fields": {
+        "bidder": 28,
+        "bid": "2820.00",
+        "auction": 51
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 64,
+    "fields": {
+        "bidder": 12,
+        "bid": "4279.00",
+        "auction": 100
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 65,
+    "fields": {
+        "bidder": 13,
+        "bid": "1865.00",
+        "auction": 94
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 66,
+    "fields": {
+        "bidder": 15,
+        "bid": "5530.00",
+        "auction": 53
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 67,
+    "fields": {
+        "bidder": 25,
+        "bid": "2598.00",
+        "auction": 43
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 68,
+    "fields": {
+        "bidder": 24,
+        "bid": "288.00",
+        "auction": 92
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 69,
+    "fields": {
+        "bidder": 18,
+        "bid": "6020.00",
+        "auction": 58
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 70,
+    "fields": {
+        "bidder": 13,
+        "bid": "4121.00",
+        "auction": 5
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 71,
+    "fields": {
+        "bidder": 24,
+        "bid": "6976.00",
+        "auction": 56
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 72,
+    "fields": {
+        "bidder": 28,
+        "bid": "8682.00",
+        "auction": 42
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 73,
+    "fields": {
+        "bidder": 28,
+        "bid": "5562.00",
+        "auction": 91
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 74,
+    "fields": {
+        "bidder": 24,
+        "bid": "7268.00",
+        "auction": 102
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 75,
+    "fields": {
+        "bidder": 20,
+        "bid": "2035.00",
+        "auction": 70
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 76,
+    "fields": {
+        "bidder": 21,
+        "bid": "5373.00",
+        "auction": 8
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 77,
+    "fields": {
+        "bidder": 22,
+        "bid": "3705.00",
+        "auction": 65
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 78,
+    "fields": {
+        "bidder": 23,
+        "bid": "4951.00",
+        "auction": 9
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 79,
+    "fields": {
+        "bidder": 14,
+        "bid": "6379.00",
+        "auction": 20
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 80,
+    "fields": {
+        "bidder": 25,
+        "bid": "4417.00",
+        "auction": 89
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 81,
+    "fields": {
+        "bidder": 17,
+        "bid": "9074.00",
+        "auction": 92
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 82,
+    "fields": {
+        "bidder": 23,
+        "bid": "1158.00",
+        "auction": 25
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 83,
+    "fields": {
+        "bidder": 14,
+        "bid": "277.00",
+        "auction": 76
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 84,
+    "fields": {
+        "bidder": 16,
+        "bid": "210.00",
+        "auction": 19
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 85,
+    "fields": {
+        "bidder": 30,
+        "bid": "2549.00",
+        "auction": 58
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 86,
+    "fields": {
+        "bidder": 14,
+        "bid": "7405.00",
+        "auction": 105
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 87,
+    "fields": {
+        "bidder": 12,
+        "bid": "4669.00",
+        "auction": 31
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 88,
+    "fields": {
+        "bidder": 18,
+        "bid": "799.00",
+        "auction": 42
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 89,
+    "fields": {
+        "bidder": 24,
+        "bid": "1325.00",
+        "auction": 19
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 90,
+    "fields": {
+        "bidder": 27,
+        "bid": "3434.00",
+        "auction": 56
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 91,
+    "fields": {
+        "bidder": 21,
+        "bid": "4944.00",
+        "auction": 58
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 92,
+    "fields": {
+        "bidder": 26,
+        "bid": "6283.00",
+        "auction": 29
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 93,
+    "fields": {
+        "bidder": 28,
+        "bid": "6380.00",
+        "auction": 73
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 94,
+    "fields": {
+        "bidder": 15,
+        "bid": "500.00",
+        "auction": 85
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 95,
+    "fields": {
+        "bidder": 26,
+        "bid": "1823.00",
+        "auction": 5
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 96,
+    "fields": {
+        "bidder": 19,
+        "bid": "194.00",
+        "auction": 64
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 97,
+    "fields": {
+        "bidder": 13,
+        "bid": "2405.00",
+        "auction": 53
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 98,
+    "fields": {
+        "bidder": 26,
+        "bid": "4238.00",
+        "auction": 52
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 99,
+    "fields": {
+        "bidder": 12,
+        "bid": "3403.00",
+        "auction": 66
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 100,
+    "fields": {
+        "bidder": 18,
+        "bid": "4754.00",
+        "auction": 103
+    }
+},
+{
+    "model": "netstore.bid",
+    "pk": 101,
+    "fields": {
+        "bidder": 27,
+        "bid": "9795.00",
+        "auction": 71
+    }
+}
+]

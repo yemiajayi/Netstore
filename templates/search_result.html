@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block title %}Search results{% endblock %}
+
+{% block body %}
+    {% for auction in matching_auctions %}
+        <div class="col-md-4">
+        <h5><a href="{% url 'auction_detail' auction.id %}">{{ auction.title }}</a></h5>
+        </div>
+    {% endfor %}
+{% endblock %}

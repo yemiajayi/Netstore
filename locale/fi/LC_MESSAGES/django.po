@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-26 23:38+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Auction_Project/settings.py:119
+msgid "English"
+msgstr "Englanti"
+
+#: Auction_Project/settings.py:120
+msgid "German"
+msgstr "Saksan"
+
+#: Auction_Project/settings.py:121
+msgid "Finnish"
+msgstr "Suomeksi"
+
+#: Auction_Project/settings.py:122
+msgid "Swedish"
+msgstr "Ruotsin"
+
+#: netstore/views.py:101
+msgid "log in to edit account"
+msgstr "kirjaudu muokkaamaan tiliä"
+
+#: netstore/views.py:162
+msgid "log in to change password"
+msgstr "kirjaudu salasanan vaihtamiseen"
+
+#: netstore/views.py:170
+msgid "Login to add auction"
+msgstr "Kirjaudu lisättyä huutokaupasta"
+
+#: netstore/views.py:195
+msgid "Oops! Something went wrong"
+msgstr "Oho! Jotain meni pieleen"
+
+#: netstore/views.py:206
+msgid "Log in to create auction"
+msgstr "Kirjaudu sisään luodaksesi huutokaupan"
+
+#: templates/auction_detail.html:3
+msgid "Details"
+msgstr "Yksityiskohdat"
+
+#: templates/auction_detail.html:33
+msgid "Go to bid on ths auction"
+msgstr "Siirry tarjoushintaan huutokaupassa"
+
+#: templates/auction_detail.html:35
+msgid "Login to bid on ths auction"
+msgstr "kirjaudu hinnoitteluun tämän huutokaupan osalta"
+
+#: templates/auction_detail.html:38
+msgid "Sorry, this auction has been banned by the admin!"
+msgstr "Anteeksi, admin on kieltänyt tämän huutokaupan!"
+
+#: templates/base.html:34
+msgid "Auctions"
+msgstr "Huutokaupat"
+
+#: templates/base.html:40
+msgid "Auction"
+msgstr "Huutokauppa"
+
+#: templates/base.html:44
+msgid "Join"
+msgstr "Liittyä seuraan"
+
+#: templates/base.html:55
+msgid "Search"
+msgstr "Hae"
+
+#: templates/base.html:64
+msgid "Profile"
+msgstr "Profiili"
+
+#: templates/base.html:69
+msgid "Logout"
+msgstr "Kirjautua ulos"
+
+#: templates/base.html:75
+msgid "Login"
+msgstr "Kirjaudu sisään"
+
+#: templates/base.html:110
+msgid "Switch"
+msgstr "Vaihtaa"
